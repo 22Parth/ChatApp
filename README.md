@@ -1,7 +1,7 @@
 
 # Chat Plus
 
-A chat web App made using Javascript, React, firebase and CSS,
+A chat web App made using Javascript, React, firebase and SCSS,
 
 ### Live Link 
 https://chatpluus.netlify.app
